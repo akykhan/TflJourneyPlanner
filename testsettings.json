@@ -1,0 +1,11 @@
+{
+  "BaseUrl": "https://tfl.gov.uk",
+  "Headless": true,
+  "BrowserChannel": "chromium",
+  "SlowMoMs": 0,
+  "DefaultTimeoutMs": 30000,
+  "ResultsTimeoutMs": 60000,
+  "ViewportWidth": 1366,
+  "ViewportHeight": 900,
+  "ArtifactsDirectory": "TestArtifacts"
+}
